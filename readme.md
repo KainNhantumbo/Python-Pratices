@@ -1,0 +1,1 @@
+In this lesson I learned data types, data types casting, inputs and print values to console. 
